@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709326583103",
+    "project_id": "mouasah-c106b",
+    "storage_bucket": "mouasah-c106b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709326583103:android:958c00ab3c16f15bce8f8a",
+        "android_client_info": {
+          "package_name": "com.nilelive.mouasah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709326583103-mutck6404vjbmab4vhr7fm4i2g8nt1kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nilelive.mouasah",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "709326583103-de173mnlu2n1jot7tto1a6c1pntlcgh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiV5LDg_3TI3Y3k0Hob3Ez35AESUnMS1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709326583103-de173mnlu2n1jot7tto1a6c1pntlcgh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

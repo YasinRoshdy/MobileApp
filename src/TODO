@@ -1,0 +1,82 @@
+// BUG: Nested Scroll Views Collapse Item When Scrolling Inner Scroll View In Quran Sura
+    Audio List Item
+// INFO: When Touchable Without Feedback Pressed It Re-renders The Component That Makes The Component
+    Fallback To The Initial State Which Is False
+
+// TODO: Fire Axios Requests With Body In GET Requests 
+
+// Done Screens:
+//DONE: اتصل بنا – 1
+//DONE: 01-القرآن – 1
+//DONE: 01-القرآن – 2
+//DONE: الحديث الشريف
+//DONE: الحديث الشريف
+//DONE: 04-التفسير المرئى
+//DONE: 03-التفسير الصوتى
+//DONE: 03-التفسير الصوتى – 1
+//DONE: 02-التلاوة الصوتية
+//DONE: 04-التفسير المرئى – 1
+//DONE: 05-التفسير المقروء
+//DONE: 05-التفسير المقروء – 1
+//DONE: نبذة عن الجمعية
+//DONE: Splash screen – 3
+//DONE: نبذة عن الشيخ
+//DONE: Home page – 7
+//DONE: الحديث الشريف – 1
+//DONE: 02-التلاوة الصوتية – 1
+//DONE: 02-التلاوة الصوتية – 2
+//DONE: العلوم الأخرى - المحاضرات المرئية – 1
+//DONE: العلوم الأخرى - المحاضرات الصوتية
+//DONE: العلوم الأخرى - المحاضرات المرئية – 2
+//DONE: العلوم الأخرى - محاضرة مرئية – 1
+//DONE: العلوم الأخرى - المحاضرات الصوتية – 1
+//DONE: العلوم الأخرى - محاضرة مرئية – 3
+//DONE: العلوم الأخرى - محاضرة مرئية – 2
+//DONE: الكتب – 3
+//DONE: الكتب – 1
+//DONE: كتاب – 1
+//DONE: كتاب – 2
+//DONE: الفتاوى
+//DONE: المجالس
+//DONE: العلوم الأخرى - محاضرة مرئية – 4
+//DONE: Home page – 8
+//DONE: Quran Sura Video Tafsir Screen
+
+// TODO: Custom Navigation Routing For Drawer To Emitate Drawer Navigator
+
+
+// DONE: Intro Screen
+// DONE: Home Screen
+// DONE: Quran Sura List Screen
+// DONE: Quran Sura Details Screen
+// DONE: Quran Sura Telawa
+// DONE: Quran Sura Video Tafsir
+// DONE: Quran Sura Video Tafsir Screen
+// DONE: Quran Sura Audio Tafsir
+// DONE: Quran Sura Readable Tafsir
+// DONE: Hadith Books List Screen
+// DONE: Hadith Book Chapters List Screen
+// DONE: Hadith List Screen
+// DONE: Hadith Details Screen
+// DONE: Hadith Text
+// DONE: Hadith Video Tafsir
+// DONE: Hadith Audio Tafsir
+// DONE: Hadith Readable Tafsir
+// DONE: Other Science List Screen
+// DONE: Other Science Audio List
+// DONE: Other Science Audio Subjects List Screen
+// DONE: Other Science Video List
+// DONE: Other Science Video Subjects List Screen
+// DONE: Other Science Video Subject Screen
+// DONE: Books And Articles Screen
+// DONE: Books List
+// DONE: Book Details Screen
+// DONE: Articles List
+// DONE: Article Details Screen
+// DONE: Fatwas Screen
+// DONE: Sessions Screen
+
+
+// DONE: Check All Sizes, Margins, Padding And Use The Scaling Instead Of Static Units
+
+// TODO: Sharing Is Delayed
